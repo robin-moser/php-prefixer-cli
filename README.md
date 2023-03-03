@@ -4,6 +4,11 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
+## About the Fork
+> Some builds require to send the preinstalled vendor data if they were changed manually before prfixing.
+> The options --include-vendor and --include-all cann include the vendor directory
+> (or all files in the source).
+
 A command-line for the [PHP-Prefixer](https://php-prefixer.com) service.
 
 **Blog post announcement**: [New PHP-Prefixer CLI: Prefix from the Terminal](https://blog.php-prefixer.com/2021/06/12/new-php-prefixer-cli-prefix-from-the-terminal/)
